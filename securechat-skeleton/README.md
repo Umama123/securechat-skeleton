@@ -303,10 +303,10 @@ Follow TCP Stream → Shows:
 
 ## Author
 
-**Name:** Anoosha Ali  
-**Roll Number:** 22i-1242  
-**Section:** J  
-**Email:** i221242@nu.edu.pk  
+**Name:** Umama Naseer  
+**Roll Number:** 22i-2386  
+**Section:** E  
+**Email:** i222386@nu.edu.pk  
 **Course:** CS-3002 Information Security  
 **Institution:** FAST-NUCES, Islamabad  
 **Semester:** Fall 2025
