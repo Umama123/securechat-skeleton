@@ -1,0 +1,9 @@
+.venv/
+.history/
+.env
+certs/
+app/crypto/__pycache__/
+app/__pycache__/
+app/storage/__pycache__/
+app/common/__pycache__/
+transcripts/
